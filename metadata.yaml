@@ -1,9 +1,13 @@
 _repo: Too-Fat-to-Fight_50735
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Skidmore, T. D.
     gutenberg_agent_id: '46062'
     url: http://www.gutenberg.org/2009/agents/46062
+covers:
+- cover_type: archival
+  image_path: 50735-h/images/cover.jpg
 creator:
   author:
     agent_name: Beach, Rex
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4000
     wikipedia: http://en.wikipedia.org/wiki/Rex_Beach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50735#Too-Fat-to-Fight
 gutenberg_issued: '2015-12-21'
 gutenberg_type: Text
 identifiers:
